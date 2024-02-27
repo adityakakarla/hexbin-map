@@ -1,90 +1,90 @@
 ,State,Abbreviation,Region,X-Coordinate,Y-Coordinate
-0,Washington,WA,WRO,0.625,8
-1,Montana,MT,MPRO,2.5,8
-2,North Dakota,ND,MPRO,4.375,8
-3,Minnesota,MN,MWRO,6.25,8
-4,Wisconsin,WI,MWRO,8.125,8
-5,Michigan,MI,MWRO,10,8
-6,Pennsylvania,PA,MARO,11.875,8
-7,New York,NY,NERO,13.75,8
-8,Rhode Island,RI,NERO,14.69,8.5
-9,Vermont,VT,NERO,12.815,8.5
-10,New Hampshire,NH,NERO,13.75,9
-11,Pleasant Point,PP,NERO,15.625,9
-12,Passamaquoddy,PQ,NERO,16.5625,8.5
-13,Maine,ME,NERO,16.5625,9.5
-14,Alaska,AK,WRO,0.625,10
-15,Idaho,ID,WRO,1.565,7.5
-16,Northern Arapahoe Tribe,NAR,MPRO,3.44,7.5
-17,Standing Rock Sioux Tribe,SRS,MPRO,5.315,7.5
-18,Iowa,IA,MWRO,7.19,7.5
-19,Illinois,IL,MWRO,9.065,7.5
-20,Indiana,IN,MWRO,10.94,7.5
-21,Ohio,OH,MWRO,12.815,7.5
-22,Massachusetts,MA,NERO,14.69,7.5
-23,New Jersey,NJ,MARO,13.75,7
-24,Connecticut,CT,NERO,15.625,8
-25,Oregon,OR,WRO,0.625,7
-26,Wyoming,WY,MPRO,2.5,7
-27,Mandan Hidatsa and Arikara Nation,MHA,MPRO,4.375,7
-28,Rosebud Sioux Tribe,RS,MPRO,6.25,7
+0,Washington,WA,WRO,0.625,9
+1,Montana,MT,MPRO,2.5,9
+2,North Dakota,ND,MPRO,4.375,9
+3,Minnesota,MN,MWRO,6.25,9
+4,Wisconsin,WI,MWRO,8.125,9
+5,Michigan,MI,MWRO,9.065,8.5
+6,Pennsylvania,PA,MARO,10.935,7.5
+7,New York,NY,NERO,10.935,6.5
+8,Rhode Island,RI,NERO,12.815,6.5
+9,Vermont,VT,NERO,11.88,8
+10,New Hampshire,NH,NERO,12.815,8.5
+11,Pleasant Point,PP,NERO,12.815,7.5
+12,Passamaquoddy,PQ,NERO,13.75,8
+13,Maine,ME,NERO,13.75,9
+14,Alaska,AK,WRO,0.625,11
+15,Idaho,ID,WRO,1.565,8.5
+16,Northern Arapahoe Tribe,NAR,MPRO,3.44,8.5
+17,Standing Rock Sioux Tribe,SRS,MPRO,5.315,8.5
+18,Iowa,IA,MWRO,7.19,8.5
+19,Illinois,IL,MWRO,8.125,8
+20,Indiana,IN,MWRO,9.065,7.5
+21,Ohio,OH,MWRO,10,7
+22,Massachusetts,MA,NERO,11.88,7
+23,New Jersey,NJ,MARO,10.935,5.5
+24,Connecticut,CT,NERO,13.75,7
+25,Oregon,OR,WRO,0.625,8
+26,Wyoming,WY,MPRO,2.5,8
+27,Mandan Hidatsa and Arikara Nation,MHA,MPRO,4.375,8
+28,Rosebud Sioux Tribe,RS,MPRO,6.25,8
 29,Missouri,MO,MPRO,8.125,7
-30,Kentucky,KY,SERO,10,7
-31,West Virginia,WV,MARO,11.875,7
-32,Virginia,VA,MARO,12.815,6.5
-33,Maryland,MD,MARO,14.69,6.5
-34,Delaware,DE,MARO,15.625,7
-35,California,CA,WRO,0.625,6
-36,Eastern  Shoshone,ESH,MPRO,3.44,6.5
-37,South Dakota,SD,MPRO,5.315,6.5
-38,Santee Sioux Tribe,SST,MPRO,7.19,6.5
-39,Omaha Nation Tribe,OMH,MPRO,9.065,6.5
-40,Tennessee,TN,SERO,10.94,6.5
-41,North Carolina,NC,SERO,12.815,5.5
-42,South Carolina,SC,SERO,12.815,4.5
-43,District of Columbia,DC,MARO,13.75,6
+30,Kentucky,KY,SERO,9.065,6.5
+31,West Virginia,WV,MARO,10,6
+32,Virginia,VA,MARO,10.935,4.5
+33,Maryland,MD,MARO,11.88,6
+34,Delaware,DE,MARO,12.815,5.5
+35,California,CA,WRO,0.625,7
+36,Eastern  Shoshone,ESH,MPRO,3.44,7.5
+37,South Dakota,SD,MPRO,5.315,7.5
+38,Santee Sioux Tribe,SST,MPRO,7.19,7.5
+39,Omaha Nation Tribe,OMH,MPRO,6.25,7
+40,Tennessee,TN,SERO,9.065,5.5
+41,North Carolina,NC,SERO,10,4
+42,South Carolina,SC,SERO,10.935,3.5
+43,District of Columbia,DC,MARO,11.88,5
 44,Inter-Tribal Council of Arizona,ITCA,SWRO,1.565,6.5
-45,Utah,UT,SWRO,2.5,6
-46,Cheyenne River Sioux Tribe,CHY,MPRO,4.375,6
-47,Nebraska,NE,MPRO,6.25,6
+45,Utah,UT,SWRO,3.44,6.5
+46,Cheyenne River Sioux Tribe,CHY,MPRO,4.375,7
+47,Nebraska,NE,MPRO,7.19,6.5
 48,Winnebago Tribe,WNB,MPRO,8.125,6
-49,Arkansas,AR,SWRO,10,6
-50,Eastern Band of Cherokee Indians,ECHR,SERO,11.875,6
-51,Georgia,GA,SERO,11.875,4
-52,Arizona,AZ,SWRO,1.565,5.5
-53,Nevada,NV,WRO,3.44,5.5
-54,Ute Mountain Ute Tribe,UTE,MPRO,5.315,5.5
+49,Arkansas,AR,SWRO,9.065,4.5
+50,Eastern Band of Cherokee Indians,ECHR,SERO,10,5
+51,Georgia,GA,SERO,10,3
+52,Arizona,AZ,SWRO,0.625,6
+53,Nevada,NV,WRO,1.565,7.5
+54,Ute Mountain Ute Tribe,UTE,MPRO,5.315,6.5
 55,Kansas,KS,MPRO,7.19,5.5
-56,Inter-Tribal Council of Oklahoma,ITCO,SWRO,9.065,5.5
-57,Mississippi,MS,SERO,10.94,5.5
-58,Alabama,AL,SERO,11.875,5
-59,Florida,FL,SERO,12.815,3.5
+56,Inter-Tribal Council of Oklahoma,ITCO,SWRO,6.25,5
+57,Mississippi,MS,SERO,8.125,3
+58,Alabama,AL,SERO,9.065,3.5
+59,Florida,FL,SERO,10.935,2.5
 60,Navajo Nation,NVJ,SWRO,0.625,5
-61,Inter-Tribal Council of Nevada,ITCN,WRO,2.5,5
-62,Colorado,CO,MPRO,4.375,5
-63,Otoe-Missouria Tribe,OM,SWRO,6.25,5
+61,Inter-Tribal Council of Nevada,ITCN,WRO,2.5,7
+62,Colorado,CO,MPRO,4.375,6
+63,Otoe-Missouria Tribe,OM,SWRO,5.315,5.5
 64,Choctaw Nation of Oklahoma,CH,SWRO,8.125,5
-65,Mississippi Band of Choctaw Indians,MSCH,SERO,10,5
-66,Pueblo of Zuni,PZ,SWRO,1.565,4.5
-67,Pueblo of Isleta,IS,SWRO,3.44,4.5
-68,Acoma-Canoncita-Laguna,ACL,SWRO,5.315,4.5
+65,Mississippi Band of Choctaw Indians,MSCH,SERO,8.125,4
+66,Pueblo of Zuni,PZ,SWRO,1.565,5.5
+67,Pueblo of Isleta,IS,SWRO,3.44,5.5
+68,Acoma-Canoncita-Laguna,ACL,SWRO,4.375,5
 69,Wichita-Caddo-Delaware,WCD,SWRO,7.19,4.5
-70,Osage Nation,OS,SWRO,9.065,4.5
-71,Louisiana,LA,SWRO,10.94,4.5
-72,Pueblo of San Felipe,PSF,SWRO,1.565,3.5
-73,New Mexico,NM,SWRO,2.5,4
-74,Eight Northern Pueblos,ENP,SWRO,4.375,4
-75,Oklahoma,OK,SWRO,6.25,4
-76,Chickasaw Nation,CHK,SWRO,8.125,4
-77,Santo Domingo Tribe,SDT,SWRO,2.5,3
-78,Five Sandoval Pueblos,FSP,SWRO,3.44,3.5
-79,Muscogee Creek Nation,MC,SWRO,5.315,3.5
+70,Osage Nation,OS,SWRO,6.25,6
+71,Louisiana,LA,SWRO,7.19,2.5
+72,Pueblo of San Felipe,PSF,SWRO,1.565,4.5
+73,New Mexico,NM,SWRO,2.5,5
+74,Eight Northern Pueblos,ENP,SWRO,2.5,6
+75,Oklahoma,OK,SWRO,5.315,4.5
+76,Chickasaw Nation,CHK,SWRO,6.25,4
+77,Santo Domingo Tribe,SDT,SWRO,2.5,4
+78,Five Sandoval Pueblos,FSP,SWRO,3.44,4.5
+79,Muscogee Creek Nation,MC,SWRO,4.375,4
 80,Citizen Potawatomi Nation,CPT,SWRO,7.19,3.5
-81,Cherokee Nation,CHR,SWRO,4.375,3
+81,Cherokee Nation,CHR,SWRO,5.315,3.5
 82,Texas,TX,SWRO,6.25,3
-83,Hawaii,HI,WRO,1.25,1.5
-84,Commonwealth of the Northern Mariana Islands,CNMI,WRO,9.5,2
-85,American Samoa,AS,WRO,11.375,2
-86,Guam,GU,WRO,9.5,1
-87,Virgin Islands,VI,NERO,10.435,1.5
-88,Puerto Rico,PR,MARO,11.375,1
+83,Hawaii,HI,WRO,1.5,2
+84,Commonwealth of the Northern Mariana Islands,CNMI,WRO,0.565,1.5
+85,American Samoa,AS,WRO,1.5,1
+86,Guam,GU,WRO,0.565,2.5
+87,Virgin Islands,VI,NERO,12.435,1.5
+88,Puerto Rico,PR,MARO,13.375,1
